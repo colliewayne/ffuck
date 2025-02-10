@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+/* root section */
+:root {
+  --bg-color: #333;
+  --text-color: rgb(63, 63, 63);
+  --button-bg-color: rgb(87, 27, 228);
+  --button-bg-hover-color: rgb(64, 15, 177);
+  --button-color: #fff;
+  --font-size: 15px;
+  --font-family: "Roboto", serif;
+  --margin-left: 180px;
+  --margin-right: 180px;
+  --border-radius: 50%;
+  --card-color: rgb(255, 240, 211);
+  --card-box-shadow: 0 8px rgb(119, 83, 11);
+  --transition: 0.3s;
+  --width: 40px;
+  --height: 40px;
+}
+
+/* universal section */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--font-family);
+}
+
+/* body section */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-color);
+  margin-left: var(--margin-left);
+  margin-right: var(--margin-right);
+}
+
+/* header section */
+
+/* header section  */
+
+/* hero section  */
+
+/* main-section  */
+
+/* <!-- footer  */
